@@ -49,7 +49,7 @@ This project is a RESTful API built with **Node.js**, **Express.js**, and **MySQ
 - **Request Body:**
   ```json
   {
-    "identifier": "uniqueuser123 or user@example.com",
+    "username": "uniqueuser123 or user@example.com",
     "password": "yourpassword"
   }
   ```
